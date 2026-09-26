@@ -4,7 +4,7 @@ M.Sc. Business Analytics student at Católica Lisbon, currently on exchange at t
 Background in business controlling (BASF) and GenAI consulting (Capgemini Invent).
 
 **Focus:** predictive analytics, AI fairness, LLM-based automation  
-**Tools:** Python · R · SQL · Power BI · n8n · Langflow · LLM APIs
+**Tools:** Python, R, SQL
 
 ## 📂 What you'll find here
 
@@ -21,4 +21,4 @@ Each repository includes a README with the research question, data, methods and 
 
 Exploring LLM-based agents and workflow automation, and building small side projects to deepen my technical skills.
 
-📫 [LinkedIn]((https://www.linkedin.com/in/alexander-wanstrath-881318276/)) · alexander@wanstrath.de
+📫 [LinkedIn](https://www.linkedin.com/in/alexander-wanstrath-881318276/) - alexander@wanstrath.de
