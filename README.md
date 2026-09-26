@@ -21,4 +21,4 @@ Each repository includes a README with the research question, data, methods and 
 
 Exploring LLM-based agents and workflow automation, and building small side projects to deepen my technical skills.
 
-📫 [LinkedIn]([https://www.linkedin.com/in/DEIN-PROFIL](https://www.linkedin.com/in/alexander-wanstrath-881318276/)) · alexander@wanstrath.de
+📫 [LinkedIn]((https://www.linkedin.com/in/alexander-wanstrath-881318276/)) · alexander@wanstrath.de
