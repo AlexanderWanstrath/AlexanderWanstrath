@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**AlexanderWanstrath/AlexanderWanstrath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Business Analytics student at Católica Lisbon, currently on exchange at the University of Florence.
+Background in business controlling (BASF) and GenAI consulting (Capgemini Invent).
 
-Here are some ideas to get you started:
+**Focus:** predictive analytics, AI fairness, LLM-based automation  
+**Tools:** Python · R · SQL · Power BI · n8n · Langflow · LLM APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 What you'll find here
+
+This profile collects projects from my Master's programme, covering the full analytics workflow from data preparation to modelling and interpretation:
+
+- **Machine learning & predictive analytics:** classification and regression models in Python
+- **AI fairness & interpretability:** auditing prediction models for bias
+- **Econometrics & statistics:** time-series analysis and statistical modelling in R
+- **Marketing analytics:** survey-based studies such as conjoint analysis
+
+Each repository includes a README with the research question, data, methods and key results.
+
+## 🌱 Currently
+
+Exploring LLM-based agents and workflow automation, and building small side projects to deepen my technical skills.
+
+📫 [LinkedIn](https://www.linkedin.com/in/DEIN-PROFIL) · alexander@wanstrath.de
